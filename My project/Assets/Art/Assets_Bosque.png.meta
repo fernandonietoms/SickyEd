@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: fe178189f6c56084eb5abc0927b7a5af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5355339971737526393
+    second: Assets_Bosque_0
+  - first:
+      213: -5677561937797284938
+    second: Assets_Bosque_1
+  - first:
+      213: 1644230953452112628
+    second: Assets_Bosque_2
+  - first:
+      213: 7499255947020934914
+    second: Assets_Bosque_3
+  - first:
+      213: 2459339515427453633
+    second: Assets_Bosque_4
+  - first:
+      213: -1943420960711616700
+    second: Assets_Bosque_5
+  - first:
+      213: -486398565688406351
+    second: Assets_Bosque_6
+  - first:
+      213: -4638546405874972761
+    second: Assets_Bosque_7
+  - first:
+      213: -2473600265725422358
+    second: Assets_Bosque_8
+  - first:
+      213: 1818257145662073810
+    second: Assets_Bosque_9
+  - first:
+      213: 5231639273942376759
+    second: Assets_Bosque_10
+  - first:
+      213: 5488345971428002558
+    second: Assets_Bosque_11
+  - first:
+      213: 5565908139392081742
+    second: Assets_Bosque_12
+  - first:
+      213: 3621240987947068354
+    second: Assets_Bosque_13
+  - first:
+      213: -1643821753953179776
+    second: Assets_Bosque_14
+  - first:
+      213: 2927762134037966521
+    second: Assets_Bosque_15
+  - first:
+      213: -775806114097104887
+    second: Assets_Bosque_16
+  - first:
+      213: 2232137744923597481
+    second: Assets_Bosque_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets_Bosque_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 7284
+        width: 2079
+        height: 2107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970adda945df15a40800000000000000
+      internalID: 5355339971737526393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_1
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 6759
+        width: 2443
+        height: 2613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb7053af7f3531b0800000000000000
+      internalID: -5677561937797284938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_2
+      rect:
+        serializedVersion: 2
+        x: 5397
+        y: 6687
+        width: 3085
+        height: 2722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa0735375b71d610800000000000000
+      internalID: 1644230953452112628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_3
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4073
+        width: 2384
+        height: 2476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f1be11d85b21860800000000000000
+      internalID: 7499255947020934914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_4
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 4085
+        width: 2549
+        height: 2423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca72275244512220800000000000000
+      internalID: 2459339515427453633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_5
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2799
+        width: 1315
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4475cb3dee49705e0800000000000000
+      internalID: -1943420960711616700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_6
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2814
+        width: 1785
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be02e0e417ff39f0800000000000000
+      internalID: -486398565688406351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_7
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 2672
+        width: 1390
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a748a3be9290afb0800000000000000
+      internalID: -4638546405874972761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_8
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1533
+        width: 1151
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4df1df9a10cadd0800000000000000
+      internalID: -2473600265725422358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_9
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 1557
+        width: 1152
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbe08d8d3fbb3910800000000000000
+      internalID: 1818257145662073810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_10
+      rect:
+        serializedVersion: 2
+        x: 5375
+        y: 952
+        width: 1315
+        height: 1426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731615483348a9840800000000000000
+      internalID: 5231639273942376759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_11
+      rect:
+        serializedVersion: 2
+        x: 7100
+        y: 1095
+        width: 1108
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa896f15958a2c40800000000000000
+      internalID: 5488345971428002558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_12
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 472
+        width: 914
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f9bec96f31e3d40800000000000000
+      internalID: 5565908139392081742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_13
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 364
+        width: 1065
+        height: 1038
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb6bac0e7b314230800000000000000
+      internalID: 3621240987947068354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_14
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 543
+        width: 161
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087af89f2d8ff29e0800000000000000
+      internalID: -1643821753953179776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_15
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 348
+        width: 371
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be2c22262081a820800000000000000
+      internalID: 2927762134037966521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_16
+      rect:
+        serializedVersion: 2
+        x: 6558
+        y: 149
+        width: 622
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9087aaa1378cb35f0800000000000000
+      internalID: -775806114097104887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Bosque_17
+      rect:
+        serializedVersion: 2
+        x: 7433
+        y: 511
+        width: 308
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa99efd3752afe10800000000000000
+      internalID: 2232137744923597481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Assets_Bosque_0: 5355339971737526393
+      Assets_Bosque_1: -5677561937797284938
+      Assets_Bosque_10: 5231639273942376759
+      Assets_Bosque_11: 5488345971428002558
+      Assets_Bosque_12: 5565908139392081742
+      Assets_Bosque_13: 3621240987947068354
+      Assets_Bosque_14: -1643821753953179776
+      Assets_Bosque_15: 2927762134037966521
+      Assets_Bosque_16: -775806114097104887
+      Assets_Bosque_17: 2232137744923597481
+      Assets_Bosque_2: 1644230953452112628
+      Assets_Bosque_3: 7499255947020934914
+      Assets_Bosque_4: 2459339515427453633
+      Assets_Bosque_5: -1943420960711616700
+      Assets_Bosque_6: -486398565688406351
+      Assets_Bosque_7: -4638546405874972761
+      Assets_Bosque_8: -2473600265725422358
+      Assets_Bosque_9: 1818257145662073810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

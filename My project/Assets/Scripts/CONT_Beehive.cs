@@ -21,7 +21,6 @@ public class CONT_Beehive : MonoBehaviour
     {
         if (collision.gameObject.tag.Equals("Player"))
         {
-            Debug.Log("Player!");
             if (collision.gameObject.TryGetComponent(out playerController))
             {
                 if (TrackPlayer != null) StopCoroutine(TrackPlayer);
@@ -41,7 +40,6 @@ public class CONT_Beehive : MonoBehaviour
                 // Stop following condition
                 if (Vector3.Distance(bees.transform.position, transform.position) > maxDistanceBees)
                 {
-                    Debug.Log("Retreat");
                     followPlayer = false;
                     bees.SetDestination(transform.position);
                 }
@@ -49,7 +47,6 @@ public class CONT_Beehive : MonoBehaviour
                 else
                 {
                     bees.SetDestination(playerController.transform.position);
-                    Debug.Log(Vector3.Distance(bees.transform.position, playerController.transform.position));
                     if (Vector3.Distance(bees.transform.position, playerController.transform.position) < 1.5f)
                     {
                         bees.SetDestination(bees.transform.position);
